@@ -12,7 +12,7 @@
  ## Here are my stats 
  ![Kishan GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishan899&theme=vision-friendly-dark) 
  <br>
- <div align='center'> 
+ <div align='left'> 
  <a href="https://github.com/Rahuletto?tab=repositories"> 
              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuletto&bg_color=14151a&theme=dark&title_color=206DA2&text_color=FFFFFF&layout=compact&show_icons=true&border_color=206DA2&icon_color=206DA2&include_all_commits=true&border_radius=15&card_width=370"></img> 
            </a>
