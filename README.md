@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kishan! 
- I'm a Learning and exploring new language.
+ I'm Learning and exploring new language.
   
  ## About Me 
  - 📚 Current I'm studying in first year of the collage. 
