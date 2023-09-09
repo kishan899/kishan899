@@ -7,7 +7,7 @@
  - 🌱 Learning new technologies and languages to expand my skills. 
   
  ## Discord 
- [![Discord Presence](https://lanyard.cnrad.dev/api/841319721860988931?showDisplayName=true&borderRadius=30px&idleMessage=Hey!%20What's%20up!%20Welcome%20to%20my%20GitHub%20Profile...)](https://discord.com/users/841319721860988931) 
+ [![Discord Presence](https://discord.c99.nl/widget/theme-2/841319721860988931.png)](https://discord.com/users/841319721860988931) 
   
  ## Here are my stats 
  ![Kishan GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishan899&theme=vision-friendly-dark) 
